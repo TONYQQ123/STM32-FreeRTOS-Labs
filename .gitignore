@@ -1,0 +1,4 @@
+# STM32 Ignore Files
+Debug/
+Release/
+*.launch
