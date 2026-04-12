@@ -17,11 +17,6 @@
     * **長按 (>1秒)**: 呼叫 `vTaskSuspend` 或 `vTaskResume` 來凍結/恢復 LED Task。
     * **短按 (<1秒)**: 透過 Queue (`xQueueSend`) 將狀態切換指令發送給 LED Task。
 
-## 💡 遇到的挑戰與學習心得
-* **變數可見範圍 (Scope)**: 釐清了 Handle 與 Queue 不能宣告在 `main()` 內的區域變數，否則其他 Task 會無法存取。改為全域變數後成功解決通訊問題。
-* **軟體防彈跳機制**: 實作並理解了「先偵測 20ms 再次確認」的雙重確認機制，有效過濾硬體金屬彈跳雜訊與短暫干擾。
-* **硬體除錯經驗**: 學會排解 ST-LINK 連線問題 ("Unable to launch") 以及從 Console 報錯行號來精準抓蟲。
-
 ## DEMO
 
 
