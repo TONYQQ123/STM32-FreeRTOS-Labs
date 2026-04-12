@@ -19,7 +19,8 @@
   * **Top of Stack**: 堆疊頂端位置。
   * **Task State**: 任務目前狀態（Ready, Blocked, etc.）。
 
-## 💡 遇到的挑戰與學習心得
-* **FreeRTOS 內部結構**: 學習了 `xLIST` 與 `xLIST_ITEM` 的鏈表結構，並理解如何透過指標存取 `pxOwner` (即 TCB)。
-* **UART 除錯**: 掌握了格式化字串輸出，這在沒有硬體除錯器（Debugger）的環境下是極為重要的工具。
-* **狀態理解**: 實際觀察到任務在不同 List 之間移動的過程，加深了對 RTOS 排程器運作的理解。
+## DEMO
+
+
+https://github.com/user-attachments/assets/a071b8de-3805-47ab-a165-3b171dc1372a
+
