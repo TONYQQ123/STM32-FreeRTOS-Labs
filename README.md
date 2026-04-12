@@ -14,7 +14,8 @@
 
 - [V] **[Lab 1: FreeRTOS 基礎應用與多任務排程](./lab_1)**
   * 實作 LED 狀態機與按鈕偵測 Task，學習 Queue 通訊機制與軟體防彈跳 (Debounce) 處理。
-- [ ] **Lab 2: (待完成)**
+- [V] **[Lab 2: Task Monitor 任務監控器實作](./lab2)**
+  * 深入 FreeRTOS 核心，透過 UART 輸出任務狀態、優先權、堆疊指針（TCB 資訊）。
 - [ ] **Lab 3: (待完成)**
 - [ ] **Lab 4: (待完成)**
 
