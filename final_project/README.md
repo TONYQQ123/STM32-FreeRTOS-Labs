@@ -1,7 +1,6 @@
 # Final Project: Topic-Based Pub-Sub IPC on FreeRTOS
 
 > **A decoupled message broker connecting sensors, display, and alarm subsystems on a single MCU**  
-> 組員：余東蓁、江詠翔
 
 ---
 
