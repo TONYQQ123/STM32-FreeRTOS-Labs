@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/038ec27d-0ff1-4efe-9bc8-dfd382e85964
+
 # Final Project: Topic-Based Pub-Sub IPC on FreeRTOS
 
 > **A decoupled message broker connecting sensors, display, and alarm subsystems on a single MCU**  
@@ -103,6 +107,6 @@
 
 ## Demo
 
-[![Topic-Based Pub-Sub IPC Demo Video](https://img.youtube.com/vi/jJIMdGbsHVs/0.jpg)](https://youtu.be/jJIMdGbsHVs)
+https://github.com/user-attachments/assets/4b68fe1b-42aa-48fe-8d87-9cc66bc72d44
 
-> 📺 **YouTube 成果展示影片**：[點此前往觀看 Demo (https://youtu.be/jJIMdGbsHVs)](https://youtu.be/jJIMdGbsHVs)
+
