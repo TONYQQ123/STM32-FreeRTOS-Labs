@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/038ec27d-0ff1-4efe-9bc8-dfd382e85964
-
 # Final Project: Topic-Based Pub-Sub IPC on FreeRTOS
 
 > **A decoupled message broker connecting sensors, display, and alarm subsystems on a single MCU**  
