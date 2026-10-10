@@ -98,3 +98,11 @@
 * **>= 33 °C (HOT)**：點亮紅燈。
 * **>= 28 °C (WARN)**：點亮橘燈。
 * **< 28 °C (NORMAL)**：點亮綠燈（常態指示）。
+
+---
+
+## Demo
+
+[![Topic-Based Pub-Sub IPC Demo Video](https://img.youtube.com/vi/jJIMdGbsHVs/0.jpg)](https://youtu.be/jJIMdGbsHVs)
+
+> 📺 **YouTube 成果展示影片**：[點此前往觀看 Demo (https://youtu.be/jJIMdGbsHVs)](https://youtu.be/jJIMdGbsHVs)
